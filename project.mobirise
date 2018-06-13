@@ -120,7 +120,7 @@
               }
             },
             ".brand-name": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "text-align": "left"
             },
             ".sidebar": {
