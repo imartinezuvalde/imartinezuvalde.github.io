@@ -120,7 +120,7 @@
               }
             },
             ".brand-name": {
-              "color": "#efefef",
+              "color": "#70e6b3",
               "text-align": "left"
             },
             ".sidebar": {
@@ -238,6 +238,9 @@
             },
             ".brand-name B": {
               "color": "#ffffff"
+            },
+            ".brand-name FONT": {
+              "color": "#70e6b3"
             }
           },
           "_name": "menu1",
