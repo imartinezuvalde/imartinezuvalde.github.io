@@ -48,14 +48,15 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-120680141-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-120680141-1');\r\n</script>\r\n"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-120680141-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-120680141-1');\r\n</script>\r\n",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "MAS Media Marketing is a full-service marketing and advertising agency located in Uvalde, TX, offering online marketing services including web design, SEO, social media advertising and management for small businesses in Uvalde and the surrounding area.",
+        "meta_descr": "Ismael Martinez Digital Marketing Services is a full-service marketing and advertising agency located in Uvalde, TX, offering online marketing services including web design, SEO, social media advertising and management for small businesses in Uvalde and the surrounding area.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
